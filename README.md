@@ -18,9 +18,11 @@ Results showcased successful single-device training and improved performance in 
 ![Model complete](./assets/model_complete.jpg)
 
 ## Results
-Our short project report can be downloaded here [Download PowerPoint Presentation](./assets/presentation.pptx)
+Our short project report can be downloaded here: [Download PDF Report](./assets/report.pdf)
 
-A powerpoint presentation can be found here [Download PDF Report](./assets/report.pdf)
+A powerpoint presentation can be found here: [Download PowerPoint Presentation](./assets/presentation.pptx)
+
+Here is a [Video Demo](https://youtu.be/5cZI-IUS61U)
 
 ![Results 3](./assets/results_3.png)
 
