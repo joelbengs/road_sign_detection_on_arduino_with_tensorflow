@@ -18,7 +18,7 @@ Results showcased successful single-device training and improved performance in 
 ![Model complete](./assets/model_complete.jpg)
 
 ## Results
-![Results 3](./assets/results_3.jpg)
+![Results 3](./assets/results_3.png)
 
 ## Git Folder and File Structure:
 Explanation of the purpose of most of the folders/files in the repository.
