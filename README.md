@@ -28,6 +28,8 @@ A powerpoint presentation can be found here: [Download PowerPoint Presentation](
 
 Here is a [Video Demo](https://youtu.be/5cZI-IUS61U)
 
+The Python notebook is hosted on Kaggle here: [Kaggle notebook](https://www.kaggle.com/fabianros/road-sign-detection)
+
 The major result is presented below. We did successully implement distributed learning. The model with shared weights could classify five out of six classes that were unique to either dataset B1 or B2. Model B achieved 73% accuracy in testing.
 
 ![Results 3](./assets/result.png)
