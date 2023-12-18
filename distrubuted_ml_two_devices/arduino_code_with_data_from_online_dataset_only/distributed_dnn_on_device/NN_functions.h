@@ -335,10 +335,13 @@ void printAccuracy()
         maxIndx = j;
       }
     }
+	Serial.print(maxIndx);
+  	Serial.println(",");
     if (maxIndx == test_labels[i]) {
       correctCount += 1;
     }
   }
+  Serial.println();
 
   Accuracy = correctCount * 1.0 / numTestData;
   Serial.print("Test Accuracy: ");
